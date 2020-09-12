@@ -37,8 +37,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: "Montserrat", sans-serif;
+h6 {  
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -145,7 +144,7 @@ h6 {
   line-height: 1;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  letter-spacing: 3px;  
+  letter-spacing: 3px;
 
 }
 
@@ -1729,36 +1728,37 @@ section {
 
 /*  Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-  .roundedCircle-content {    
+  .roundedCircle-content {
     border-radius: 50%;
     height: 10rem;
-    
+
   }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  .roundedCircle-content {    
+  .roundedCircle-content {
     border-radius: 50%;
     height: 18rem;
-    
+
   }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-  .roundedCircle-content {    
+  .roundedCircle-content {
     border-radius: 50%;
     height: 10rem;
-    
+
   }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-  .roundedCircle-content {    
+  .roundedCircle-content {
     border-radius: 50%;
     height: 10rem;
-    
+
   }
 }
+
