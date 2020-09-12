@@ -403,6 +403,10 @@ h6 {
   position: relative;
 }
 
+.zoom:hover {
+  transform: scale(1.5);
+}
+
 @media (max-height: 500px) {
   #intro {
     height: 150vh;
@@ -434,10 +438,10 @@ h6 {
 #intro .carousel-container {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: start;
   position: absolute;
   bottom: 0;
-  top: 70px;
+  top: 180px;
   left: 50px;
   right: 50px;
 }
