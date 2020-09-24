@@ -37,7 +37,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {  
+h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -1764,4 +1764,18 @@ section {
     height: 10rem;
 
   }
+}
+
+
+.sensoryImageContainer {
+  z-index: 2;
+  position: absolute;
+}
+
+.backgroundPink {
+  background-color: #F5E1DA;
+}
+
+.colorBlue {
+  color: #80b0ca;
 }
