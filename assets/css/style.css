@@ -1776,6 +1776,47 @@ section {
   background-color: #F5E1DA;
 }
 
+
+.backgroundBlue {
+  background-color: #80b0ca;
+}
+
 .colorBlue {
   color: #80b0ca;
+}
+
+.colorWhite {
+  color: #fff;
+}
+
+.backgroundRed {
+  background-color: #f1667c;
+}
+
+.colorRed {
+  color: #f1667c;
+}
+
+.colorYellow {
+  color: #ffd272;
+}
+
+.backgroundYellow {
+  background-color: #ffd272;
+}
+
+.colorLightBlue {
+  color: #80b0ca;
+}
+
+.backgroundLightBlue {
+  background-color: #80b0ca;
+}
+
+.colorDarkBlue {
+  color: #055663;
+}
+
+.backgroundDarkBlue {
+  background-color: #055663;
 }
