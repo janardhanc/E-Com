@@ -1820,3 +1820,7 @@ section {
 .backgroundDarkBlue {
   background-color: #055663;
 }
+
+.titleFont{
+  font-size: 86px;
+}
